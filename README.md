@@ -8,7 +8,7 @@ Mencakup analisis open loop, closed loop, dan kendali PID dengan metode Ziegler-
 ## 📋 Deskripsi
 
 Program ini dibuat sebagai tugas Ujian Akhir Semester mata kuliah **Sistem Kendali**  
-di Program Studi Teknik Otomasi Manufaktur & Mekatronika – Polman Bandung.
+di Jurusan Teknik Otomasi Manufaktur & Mekatronika Program Studi Teknologi Rekayasa Informatika Industri – Polman Bandung.
 
 Sistem yang dimodelkan adalah linear aktuator dengan persamaan gerak:
 
@@ -29,7 +29,7 @@ G(s) = ───────    dengan K = 8, τ = 1.0 s
 ## 🗂️ Struktur File
 
 ```
-📁 repo/
+📁 225443008_Farhan-Maulana_UAS-Sistem-Kendali/
 ├── 225443008_Farhan_Maulana_UAS_Kendali.py   # Source code utama
 ├── README.md                                  # Dokumentasi ini
 └── output/                                    # (di-generate saat run)
@@ -141,6 +141,7 @@ di direktori yang sama.
 ## 📌 Informasi
 
 - **Mata Kuliah**: Sistem Kendali
-- **Program Studi**: Teknik Otomasi Manufaktur & Mekatronika
-- **Institusi**: Politeknik Manufaktur Bandung (Polman)
+- **Program Studi**: Teknologi Rekayasa Informatika Industri
+- **Jurusan**: Teknik Otomasi Manufaktur & Mekatronika
+- **Institusi**: Politeknik Manufaktur Bandung (Polman Bandung)
 - **Tahun Ajaran**: 2025/2026 (Semester Genap)
